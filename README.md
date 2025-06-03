@@ -62,11 +62,11 @@ Pleno de Dados | Especialista em Automação de Processos, Integração de Siste
 
 💡 Experiência com:
 
-Python, VBA, SQL
-Power BI (criação de dashboards interativos)
-SharePoint, Power Apps, APIs REST
-Integração entre plataformas corporativas (Metadados,TOTVS, AD, Microsoft 365)
-Azure, Databricks
+-Python, VBA, SQL
+-Power BI (criação de dashboards interativos)
+-SharePoint, Power Apps, APIs REST
+-Integração entre plataformas corporativas (Metadados,TOTVS, AD, Microsoft 365)
+-Azure, Databricks
 
 Meu Linkedin:
-[LinkedIn](https://www.linkedin.com/in/vitor-ferreira-leite/)
+-[LinkedIn](https://www.linkedin.com/in/vitor-ferreira-leite/)
