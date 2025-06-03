@@ -85,7 +85,7 @@ if conn.bind():
         df[col] = df[col].dt.tz_localize(None)
 
     # Definir o caminho do arquivo
-    caminho_saida = r"C:\Users\vitor.leite\GRUPO MONTO\TI - BI\05 TI\01 Bases\Usuarios_AD.xlsx"
+    caminho_saida = r"caminho\Usuarios_AD.xlsx"
 
     # Salvar no Excel
     df.to_excel(caminho_saida, index=False)
