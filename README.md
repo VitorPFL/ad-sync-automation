@@ -67,4 +67,6 @@ Power BI (criação de dashboards interativos)
 SharePoint, Power Apps, APIs REST
 Integração entre plataformas corporativas (Metadados,TOTVS, AD, Microsoft 365)
 Azure, Databricks
-[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/vitor-ferreira-leite)
+
+Meu Linkedin:
+[LinkedIn](https://www.linkedin.com/in/vitor-ferreira-leite/)
