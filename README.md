@@ -55,7 +55,7 @@ Devido à desorganização de usuários no ambiente corporativo — contas ativa
 
 **Vitor Pires Ferreira Leite**  
 Pleno de Dados | Especialista em automação e integração corporativa  
-[LinkedIn](www.linkedin.com/in/vitor-ferreira-leite)
+[LinkedIn](https://www.linkedin.com/in/vitor-ferreira-leite)
 
 ---
 
